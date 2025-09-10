@@ -1,0 +1,11 @@
+ *.lib
+*.var
+*.log
+hal.design_facts
+nclaunch.key
+csim.key	  
+waves.shm
+INCA_libs/
+cds.lib
+ncsim.key
+
