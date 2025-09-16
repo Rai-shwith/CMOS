@@ -11,4 +11,5 @@ waves.shm
 INCA_libs/
 cds.lib
 ncsim.key
-
+sim
+dump.vcd
