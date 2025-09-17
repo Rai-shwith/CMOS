@@ -1,4 +1,5 @@
 .hal-irun.history
+.nclaunch.dd
 .nclaunch.err
 .simvision
 *.lib
@@ -13,3 +14,5 @@ cds.lib
 ncsim.key
 sim
 dump.vcd
+pass.txt
+
