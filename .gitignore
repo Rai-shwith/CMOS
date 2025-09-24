@@ -15,4 +15,5 @@ ncsim.key
 sim
 dump.vcd
 pass.txt
-
+*.log
+*.cmd
