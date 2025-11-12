@@ -1,4 +1,5 @@
 .hal-irun.history
+.cadence/
 .nclaunch.dd
 .nclaunch.err
 .simvision
@@ -18,3 +19,4 @@ pass.txt
 *.log
 *.cmd
 *.log*
+Day4/EC029/
